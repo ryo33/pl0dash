@@ -1,1 +1,1 @@
-# MOVED TO [GITLAB](https://github.com/ryo33/pl0dash)
+# MOVED TO [GITLAB](https://gitlab.com/ryo33/pl0dash)
